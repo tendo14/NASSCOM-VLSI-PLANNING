@@ -40,9 +40,11 @@ Die Area = 660.685 um * 671.405 um
 ```
 ![magic](https://github.com/user-attachments/assets/ff53e80d-2ebe-46f0-9aa6-fa724d144932)
 
-![magic_layer](https://github.com/user-attachments/assets/b930442f-2562-4ad4-bd95-e1eb9dac1e36)
+![magic_layer](https://github.com/user-attachments/assets/b930442f-2562-4ad4-bd95-e1eb9dac1e36) 
 
+L2 - Steps to perform placement in OpenLane
 
+![placement_magic](https://github.com/user-attachments/assets/cfd31da8-9336-4cdf-befc-2cf31b2e7a7e)
 
 
 
