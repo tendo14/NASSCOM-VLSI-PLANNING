@@ -144,6 +144,12 @@ Final Layout 🥳🥳🥳
 
 ![lay](https://github.com/user-attachments/assets/5dfb7674-b93d-4475-8fb4-095c4ffc059f)
 
+## Acknowledgements
+
+I would like to thank Kunal Ghosh Sir and the whole VSD team for this wonderful course. I have learned a lot about the whole RTL to GDSII flow.
+
+
+
 
 
 
