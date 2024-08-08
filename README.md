@@ -46,8 +46,16 @@ L2 - Steps to perform placement in OpenLane
 
 ![placement_magic](https://github.com/user-attachments/assets/cfd31da8-9336-4cdf-befc-2cf31b2e7a7e)
 
+## Day - 3
 
+Exploring SKY130's basic layers
 
+![magic_inverter](https://github.com/user-attachments/assets/dfdaba4b-ca50-4754-bff6-bbbfb79965e7)
+
+```
+Extracting to spice
+```
+![spice_extract](https://github.com/user-attachments/assets/3205086f-1814-4d1d-8d99-a6ca359b0231)
 
 
 
