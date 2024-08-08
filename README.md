@@ -33,10 +33,16 @@ FF Percentage : 10.84 %
 
 ## Day - 2 
 L1 - Steps to run floorplan using OpenLane
+
 ![floorplan_def](https://github.com/user-attachments/assets/554c37a9-1cd9-4534-b63e-a366890d3cb5)
 ```
 Die Area = 660.685 um * 671.405 um
-'''
+```
+![magic](https://github.com/user-attachments/assets/ff53e80d-2ebe-46f0-9aa6-fa724d144932)
+
+![magic_layer](https://github.com/user-attachments/assets/b930442f-2562-4ad4-bd95-e1eb9dac1e36)
+
+
 
 
 
