@@ -13,11 +13,16 @@ L4 - Introduction to OpenLANE detailed ASIC design flow
 
 L1 - OpenLANE Directory structure in detail <br>
 L2 - Design Preparation Step <br>
+
 ![prep](https://github.com/user-attachments/assets/5e4eb3e2-81cf-4d77-a60d-4e1a3103c7bc) <br>
+
 L3 - Review files after design prep and run synthesis <br>
+
 ![synthesis](https://github.com/user-attachments/assets/d6fb495e-e7bc-4808-ac1e-d42fe75aab14) <br>
+
 L4 - OpenLANE Project Git Link Description <br>
 L5 - Steps to characterize synthesis results <br>
+
 ![stats](https://github.com/user-attachments/assets/64671537-dd5a-4e3d-a475-3424f3956048) <br>
 ```
 Number of D Flipflops : 1613
@@ -27,7 +32,11 @@ FF Percentage : 10.84 %
 ```
 
 ## Day - 2 
-Steps to run 
+L1 - Steps to run floorplan using OpenLane
+![floorplan_def](https://github.com/user-attachments/assets/554c37a9-1cd9-4534-b63e-a366890d3cb5)
+```
+Die Area = 660.685 um * 671.405 um
+'''
 
 
 
