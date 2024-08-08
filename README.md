@@ -19,7 +19,18 @@ L3 - Review files after design prep and run synthesis <br>
 L4 - OpenLANE Project Git Link Description <br>
 L5 - Steps to characterize synthesis results <br>
 ![stats](https://github.com/user-attachments/assets/64671537-dd5a-4e3d-a475-3424f3956048) <br>
-![results](https://github.com/user-attachments/assets/9f0b838f-1958-48d0-88d6-aefb9ca03705)
+```
+Number of D Flipflops : 1613
+Total number of Cells : 14876
+FF Ratio : 0.1084
+FF Percentage : 10.84 %
+```
+
+## Day - 2 
+
+
+
+
 
 
 
