@@ -27,6 +27,8 @@ FF Percentage : 10.84 %
 ```
 
 ## Day - 2 
+Steps to run 
+
 
 
 
