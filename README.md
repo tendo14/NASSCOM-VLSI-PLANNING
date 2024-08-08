@@ -62,7 +62,41 @@ Running simulation in ngspice
 
 ![ngspice_simul](https://github.com/user-attachments/assets/a775ff56-132b-480b-92c7-e3f6ef2de777)
 
+Calculating Rise time
 
+![risetime](https://github.com/user-attachments/assets/5f39e81c-5edc-419e-b169-84080a1ef19d)
+
+```
+Rise time = (2.24448 - 2.18168) ns = 0.0628 ns
+```
+
+Calculating Fall time 
+
+![fall_time](https://github.com/user-attachments/assets/d1971811-63fe-4d33-b9b2-1c16bae8b1e6)
+
+```
+Fall time = (4.09455 - 4.05226) ns = 0.04229 ns
+```
+
+Calculating cell rise delay
+
+![cell_rise_delay](https://github.com/user-attachments/assets/3d1ca5b8-34a8-426b-8dc3-8f9f8e047df4)
+
+```
+Cell rise delay = (2.21 - 2.15) ns = 0.06 ns
+```
+
+Calculating cell fall delay
+
+![cell_fall_delay](https://github.com/user-attachments/assets/9599844f-4dec-4870-866c-e479ebec1702)
+
+```
+Cell fall delay = (4.07696 - 4.05054) ns = 0.02642 ns
+```
+
+Lab exercise to fix poly-9 error 
+
+![drc_check](https://github.com/user-attachments/assets/649a2b86-99bc-4dee-b7c7-bd937ca91eac)
 
 
 
