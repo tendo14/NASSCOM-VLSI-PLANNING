@@ -58,6 +58,11 @@ Extracting to spice
 ![spice_extract](https://github.com/user-attachments/assets/3205086f-1814-4d1d-8d99-a6ca359b0231)
 
 
+Running simulation in ngspice
+
+![ngspice_simul](https://github.com/user-attachments/assets/a775ff56-132b-480b-92c7-e3f6ef2de777)
+
+
 
 
 
