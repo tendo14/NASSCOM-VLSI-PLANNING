@@ -99,4 +99,51 @@ Lab exercise to fix poly-9 error
 ![drc_check](https://github.com/user-attachments/assets/649a2b86-99bc-4dee-b7c7-bd937ca91eac)
 
 
+## Day - 3
+
+Checking that our inverter is placed properly on the grid
+
+![grid_matching](https://github.com/user-attachments/assets/d575c2b9-622c-47c4-8d49-ba0dae14d6fe)
+
+Including our custom cell in the floorplan
+
+![custom_cell](https://github.com/user-attachments/assets/4b54f35b-f164-4511-a382-06ec99393564)
+
+![custom](https://github.com/user-attachments/assets/3c5045cb-c77f-4d86-8eb6-f03c0cf6a2f9)
+
+Doing STA outside OpenRoad
+
+![sta](https://github.com/user-attachments/assets/fe449856-2f1a-49cc-8d8d-410206bd5f58)
+
+Doing STA using OpenRoad
+
+![openroad_sta](https://github.com/user-attachments/assets/3c24586e-6522-42ba-8630-9610e2f039ae)
+
+Doing Clock tree Synthesis
+
+![cts](https://github.com/user-attachments/assets/77b28b07-307c-47ce-a43b-b6388ba5e7e1)
+
+
+## Day - 5
+
+Building Power Distribution network 
+
+![genpdn](https://github.com/user-attachments/assets/f23a4197-f7dd-474c-b886-d5a5e8820e6a)
+
+Running Routing using TritonRoute
+
+![rount](https://github.com/user-attachments/assets/a5ebfd19-1b33-4d75-b327-25b35c215cf7)
+
+![routing_drc](https://github.com/user-attachments/assets/031f64ad-c96d-441e-aad5-49ac8ac72737)
+
+Final Layout 🥳🥳🥳
+
+![final layout](https://github.com/user-attachments/assets/cc543364-52a4-4501-b28c-7f26663392f5)
+
+![layout](https://github.com/user-attachments/assets/4aecb4b0-ceb6-4638-bbf2-f7d3e12e7a9f)
+
+![lay](https://github.com/user-attachments/assets/5dfb7674-b93d-4475-8fb4-095c4ffc059f)
+
+
+
 
