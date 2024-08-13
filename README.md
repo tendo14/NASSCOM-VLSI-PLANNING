@@ -96,6 +96,8 @@ Cell fall delay = (4.07696 - 4.05054) ns = 0.02642 ns
 
 Lab exercise to fix poly-9 error 
 
+![poly](https://github.com/user-attachments/assets/c381ef08-8b2b-4eca-b96f-0bfbe89a4ca2)
+
 ![drc_check](https://github.com/user-attachments/assets/649a2b86-99bc-4dee-b7c7-bd937ca91eac)
 
 
