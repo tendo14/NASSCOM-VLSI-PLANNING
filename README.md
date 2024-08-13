@@ -38,9 +38,9 @@ L1 - Steps to run floorplan using OpenLane
 ```
 Die Area = 660.685 um * 671.405 um
 ```
-![magic](https://github.com/user-attachments/assets/ff53e80d-2ebe-46f0-9aa6-fa724d144932)
+![full](https://github.com/user-attachments/assets/f985491f-9f88-4cc6-a576-2e438d5f435f)
 
-![magic_layer](https://github.com/user-attachments/assets/b930442f-2562-4ad4-bd95-e1eb9dac1e36) 
+![floor](https://github.com/user-attachments/assets/5c3c1aac-1b3a-451c-8f07-922301d42120)
 
 L2 - Steps to perform placement in OpenLane
 
